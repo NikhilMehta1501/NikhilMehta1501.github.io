@@ -50,7 +50,7 @@ May 2021 — Aug 2022
 
 - **Pragya Raj** — Artist portfolio website; designed, built, and deployed end-to-end. [Visit site](https://www.pragyaraj.art/)
 - **Home Server (Raspberry Pi)** — Self-hosted server with 5TB storage running Immich and Nextcloud; migrated Google Photos and Snapchat photos to Immich. [Repo](https://github.com/NikhilMehta1501/pi-home-server)
-- **Arduino Nano Clock** — Custom clock built with Arduino Nano, Max7219 dot matrix display, and RTC DS3231; includes a custom-designed PCB. [Repo](https://github.com/NikhilMehta1501/arduino-nano-clock)
+- **Arduino Nano Clock & Remote Flasher** — Custom clock (Arduino Nano, Max7219, RTC DS3231, custom PCB). Extended into an open-source web app that flashes an Arduino remotely via a browser when deployed on a server (e.g. Raspberry Pi). [Repo](https://github.com/NikhilMehta1501/arduino-remote-flasher)
 
 ---
 
